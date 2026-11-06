@@ -196,13 +196,6 @@ Dashboard Power BI menampilkan:
 - Market Segment
 - Monthly Booking Trend
 
-## Dashboard Preview
-
-Tambahkan screenshot dashboard ke folder `images`, lalu gunakan:
-
-```markdown
-![Hotel Booking Dashboard](images/hotel-booking-dashboard.png)
-```
 
 ## Project Structure
 
